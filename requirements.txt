@@ -1,5 +1,0 @@
-streamlit 
-webbrowser
-auth0_component
-dotenv 
-os
